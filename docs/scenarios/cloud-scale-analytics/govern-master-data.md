@@ -33,6 +33,7 @@ Microsoft has partnered with Profisee and CluedIn to provide native integrations
 
 Other vendors in this space are:
 
+- [TIBCO EBX](https://www.tibco.com/products/tibco-ebx-software)
 - [SAP master data governance](https://www.sap.com/products/master-data-governance.html)
 - [Semarchy](https://www.semarchy.com/)
 
